@@ -64,7 +64,7 @@ import java.util.Iterator;
  */
 public class BasecampAuthenticator extends OpenIDConnectAuthenticator implements FederatedApplicationAuthenticator {
 
-    private static Log log = LogFactory.getLog(BasecampAuthenticator.class);
+    private static final Log log = LogFactory.getLog(BasecampAuthenticator.class);
 
     /**
      * Get Basecamp authorization endpoint.
