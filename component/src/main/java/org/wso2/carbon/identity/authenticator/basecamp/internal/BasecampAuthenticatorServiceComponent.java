@@ -32,7 +32,7 @@ import java.util.Hashtable;
  */
 public class BasecampAuthenticatorServiceComponent {
 
-    private static Log log = LogFactory.getLog(BasecampAuthenticatorServiceComponent.class);
+    private static final Log log = LogFactory.getLog(BasecampAuthenticatorServiceComponent.class);
 
     protected void activate(ComponentContext ctxt) {
         try {
