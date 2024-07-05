@@ -1,0 +1,17 @@
+{
+    "name": "Basecamp",
+    "owner": "WSO2",
+    "category": "Federated authenticator",
+    "documentationUrl": "https://docs.wso2.com/display/ISCONNECTORS/Basecamp+Authenticator",
+    "description": "The Basecamp authenticator allows you to authenticate a user using Basecamp through the WSO2 Identity Server. Basecamp is a web based system for managing collaborative projects.",
+    "status": "Active",
+    "labels": ["SocialLogin"],
+    "releases": [
+        {
+            "tagName": "1.0.0",
+            "products": [
+                "IS 6.0.0"
+            ]
+        }
+    ]
+}
