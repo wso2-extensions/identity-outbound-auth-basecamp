@@ -2,7 +2,7 @@
     "name": "Basecamp",
     "owner": "WSO2",
     "category": "Federated authenticator",
-    "documentationUrl": "https://github.com/wso2-extensions/identity-outbound-auth-basecamp/blob/master/README.md",
+    "documentationUrl": "https://wso2docs.atlassian.net/wiki/spaces/ISCONNECTORS/pages/35291685/Basecamp+Authenticator",
     "description": "The Basecamp authenticator allows you to authenticate a user using Basecamp through the WSO2 Identity Server. Basecamp is a web based system for managing collaborative projects.",
     "status": "Active",
     "labels": ["SocialLogin"],
