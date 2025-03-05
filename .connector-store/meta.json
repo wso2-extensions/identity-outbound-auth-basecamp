@@ -5,7 +5,7 @@
     "documentationUrl": "https://github.com/wso2-extensions/identity-outbound-auth-basecamp/blob/master/README.md",
     "description": "The Basecamp authenticator allows you to authenticate a user using Basecamp through the WSO2 Identity Server. Basecamp is a web based system for managing collaborative projects.",
     "status": "Active",
-    "labels": ["SocialLogin"],
+    "labels": ["SocialLogin", "Retired(IS 7.1.0+)"],
     "releases": [
         {
             "tagName": "v1.0.0",
